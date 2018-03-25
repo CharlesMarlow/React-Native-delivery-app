@@ -29,7 +29,7 @@ Below you'll find information about performing common tasks. The most recent ver
   
 ## Online and device viewing
 
-You can run this app in the browser or alternatively scan a QR code and run on your own decive using the following link: 
+You can run this app in the browser or alternatively scan a QR code and run it on your own decive using the following link: 
 
 https://exp.host/@gordonnn/testapp
 
