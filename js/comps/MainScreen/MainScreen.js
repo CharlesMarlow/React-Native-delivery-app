@@ -45,7 +45,7 @@ export class MainScreen extends React.Component {
 
   handleRouteResults = (result) => {
     this.setState({
-      routeResult:result
+      routeResult: result
     });
   }
 
