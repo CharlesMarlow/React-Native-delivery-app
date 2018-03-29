@@ -26,6 +26,12 @@ Below you'll find information about performing common tasks. The most recent ver
   * [Networking](#networking)
   * [iOS Simulator won't open](#ios-simulator-wont-open)
   * [QR Code does not scan](#qr-code-does-not-scan)
+  
+## Online and device viewing
+
+You can run this app in the browser or alternatively scan a QR code and run it on your own decive using the following link: 
+
+https://exp.host/@gordonnn/testapp
 
 ## Updating to New Releases
 
